@@ -1,2 +1,2 @@
 # GoogleFormTestBySelenium
-ทำ Automate Test โดยใช้ Robot Framework กับ SeleniumLibrary ทดสอบการทำงานของ Google form 
+ทำ Automate Test ด้วย Robot Framework กับ SeleniumLibrary ทดสอบการทำงานของ Google form 
